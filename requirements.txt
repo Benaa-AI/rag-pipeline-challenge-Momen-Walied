@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pytest
+httpx
+requests
+faiss-cpu
+langchain
+langchain-community
+ollama
+sentence-transformers
+PyPDF2
+chromadb
